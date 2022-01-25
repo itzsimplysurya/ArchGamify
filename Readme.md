@@ -1,12 +1,10 @@
 # ArchGamify
 
-![](/home/surya/.config/marktext/images/2022-01-24-22-08-58-image.png)
-
-
+![2022-01-24-22-08-58-image](https://user-images.githubusercontent.com/92708411/150912904-3b361cea-cfa4-431e-81f2-7ab5de7bd76f.png)
 
 Welcome to the ArchGamify git repositry here you can find the installation tutorials. This script is completly customizable if you want to play around with the script just fork this repositry and tweak up some stuffs.
 
-This linux script is completely made for the noobs and lazy people out there who find difficulties to setup their arch linux system.
+This shell script is completely made for the noobs and lazy people out there who find difficulties to setup their arch linux system.
 
 ## Installation
 
