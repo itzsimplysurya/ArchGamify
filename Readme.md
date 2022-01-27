@@ -12,7 +12,7 @@ The installation is super simple pretty much self-explanatory every intermidate 
 
 
 
-Clone the git repositry
+download the git repositry
 
 ```git
 wget https://github.com/itzsimplysurya/ArchGamify/releases/download/v1.0.0/ArchGamify-main.zip
