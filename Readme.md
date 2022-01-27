@@ -15,27 +15,25 @@ The installation is super simple pretty much self-explanatory every intermidate 
 Clone the git repositry
 
 ```git
-git clone https://github.com/Suryadevelops/ArchGamify
+wget https://github.com/itzsimplysurya/ArchGamify/releases/download/v1.0.0/ArchGamify-main.zip
 ```
 
 cd into the root
 
 ```
-cd ArchGamify
+cd ArchGamify-main
 ```
 
 Run the script according to your hardware
 
 ```shell
-sh ArchGamifyAMD.sh
+sh ArchGamify.sh
 ```
 
 Now you can just simply sit back and enjoy random alphabets scrolling down thinking of some wierd shit in your head.
 
 ## Contributing
 
-Please fell free to give a pull request if you found something is wrong or if you wanna add a new feature. Maybe you can contribute to this Readme this is kinda messy.
-
-I'ma noob myself so for sure i will accept your help.
+Please fell free to give a pull request if you found something is wrong or if you wanna add a new feature.
 
 Thank you.
